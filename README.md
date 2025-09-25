@@ -24,6 +24,10 @@ Here’s a glimpse of my work:
 Check out my portfolio live:  
 [SamEVTech Portfolio](https://sam-evtech-portfolio.vercel.app)
 
+## Resources 📂
+- **Resume**: [Download Resume](photos/resume.pdf)
+- **GitHub**: Explore my code and projects [here](https://github.com/SamEVTech)
+
 ## How to Run 🛠️
 This is a simple HTML/CSS portfolio. To set it up:
 1. Download the ZIP from this repo.
@@ -40,4 +44,5 @@ Let’s connect!
 
 ---
 
+**Built with Passion ❤️ by SamEVTech**
 **Built with Passion ❤️ by SamEVTech**
