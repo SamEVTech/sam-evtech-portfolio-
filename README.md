@@ -1,15 +1,66 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=1E3A8A&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Sam...;EV+Specialist+%40+Tata+IIS+Mumbai;Power+Electronics+%26+BMS+Engineer;Arduino+%26+ESP32+Innovator;Building+the+Electric+Future!+%F0%9F%9A%97%E2%9A%A1%EF%B8%8F" alt="Typing SVG" />
-</div>
+# ⚡ SamEVTech Portfolio
+
+Welcome to my personal portfolio website!  
+This site showcases my journey in **Electric Vehicles (EV)**, **IoT systems**, and **Sustainable Technology**.  
+Built with a clean LinkedIn-inspired design.
 
 ---
 
-## 🔋 About Me
-**SamEVTech** | *Hands-on EV Specialist | IoT Innovator | Powering the Electric Revolution* ⚡️
+## 🚀 Live Demo
+🔗 [View Portfolio on Vercel]([https://your-vercel-link.vercel.app](https://github.com/SamEVTech/sam-evtech-portfolio-/edit/main/README.md))
 
-Hey there! 👋 I’m Samir (SamEVTech), passionate about Electric Vehicles, IoT systems, and sustainable innovation. From designing BMS safety systems to building ESP32-powered IoT dashboards, I thrive on experimenting, prototyping, and learning from every challenge.
+---
 
-> *“Innovation is not about big ideas, it’s about small steps done consistently.”*
+## 📖 About Me
+Hi, I’m **Samir (SamEVTech)** 👋  
+- ⚡ EV Specialist  
+- 📡 IoT Innovator  
+- 🌱 Sustainable Tech Builder  
+
+I love building prototypes, tearing things apart to learn, and turning small ideas into impactful solutions.
+
+---
+
+## 🎓 Education
+- 🎓 **EV 2/3 Wheeler Service Specialist Course** – TATA IIS Mumbai (2025–Present)  
+- ⚡ **ITI in Electrician** – Govt ITI Shirol, Kolhapur (2023–2025)  
+- 📘 **10th Semi-English** – RB Vidhyalay, Shirdhon (2023)  
+
+---
+
+## 🏆 Lessons from the Lab
+- 🔋 Safety comes before efficiency in BMS  
+- 📡 ESP32 WiFi is powerful but power-hungry  
+- 🔓 Teardowns reveal engineering secrets  
+- 💡 Every failed prototype teaches a trick  
+- 🌿 Sustainability starts with small steps  
+
+---
+
+## 💻 Projects
+- **EV Battery Monitoring System** – Smart BMS with real-time data  
+- **IoT Home Automation** – ESP32 + sensors for smarter homes  
+- **Data Dashboard** – Web dashboards with live sensor monitoring  
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** HTML5, CSS3  
+- **Hosting:** Vercel  
+- **Design:** LinkedIn-inspired, responsive & clean  
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: [samirmulla2007@gmail.com](mailto:samirmulla2007@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sam-evtech-451520380)  
+- 📷 [Instagram](https://instagram.com/_samir_m___)  
+- 🖥 [GitHub](https://github.com/samirmulla)  
+
+---
+
+## ⚡ Inspiration
+This portfolio design is inspired by clean, professional **LinkedIn-style layouts** to make it simple, modern, and recruiter-friendly.
 
 ---
 
