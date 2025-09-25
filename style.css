@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f3f2ef;
+  color: #333;
+}
+
+header {
+  background: #0A66C2;
+  color: white;
+  padding: 1rem 2rem;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: linear-gradient(135deg, #0A66C2, #004182);
+  color: white;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid white;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  margin-bottom: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: white;
+  color: #0A66C2;
+  border-radius: 25px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #004182;
+  color: white;
+}
+
+.btn.resume {
+  background: #FFD700;
+  color: #333;
+}
+
+.btn.resume:hover {
+  background: #e6c200;
+  color: #000;
+}
+
+section {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #0A66C2;
+}
+
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #0A66C2;
+  color: white;
+  margin-top: 2rem;
+}
