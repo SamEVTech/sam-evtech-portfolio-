@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SamEVTech Portfolio</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #1E3A8A; /* Navy Blue */
+      color: white;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+      padding: 40px;
+      background: linear-gradient(90deg, #1E3A8A, #10B981); /* Siddhesh Gradient */
+      position: sticky;
+      top: 0;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    }
+    nav a {
+      color: #34D399; /* Light Green */
+      margin: 0 25px;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: white;
+      text-decoration: underline;
+    }
+    .section {
+      padding: 50px 20px;
+      text-align: center;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .card {
+      background-color: rgba(255, 255, 255, 0.05);
+      margin: 20px auto;
+      padding: 25px;
+      max-width: 600px;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+    .profile-img {
+      width: 180px;
+      border-radius: 50%;
+      margin: 15px;
+      border: 4px solid #34D399;
+    }
+    .link {
+      color: #34D399;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .link:hover {
+      color: white;
+    }
+    .quote {
+      font-style: italic;
+      color: #A3E4D7;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SamEVTech</h1>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#projects">Projects</a>
+      <a href="#resources">Resources</a>
+    </nav>
+  </header>
+  <div class="section" id="home">
+    <h2>About Me</h2>
+    <div class="card">
+      <p>Hi, I am <strong>Samir Dastagir Mulla</strong>, an EV Specialist from Tata IIS Mumbai (2025). Passionate about electric vehicles, IoT, and sustainable innovation.</p>
+      <img src="photos/profile.jpg" alt="SamEVTech Profile" class="profile-img" onerror="this.style.display='none';">
+      <p class="quote">“Innovation is not about big ideas, it’s about small steps done consistently.”</p>
+    </div>
+  </div>
+  <div class="section" id="projects">
+    <h2>Projects</h2>
+    <div class="card">Dual-Axis Solar Tracker - Optimized solar energy tracking system.</div>
+    <div class="card">EV BMS System - Advanced Battery Management for electric vehicles.</div>
+  </div>
+  <div class="section" id="resources">
+    <h2>Resources</h2>
+    <div class="card">
+      <p><a href="photos/resume.pdf" class="link">Download Resume</a></p>
+      <p><a href="https://github.com/SamEVTech" class="link">View GitHub</a></p>
+    </div>
+  </div>
+</body>
+</html>
