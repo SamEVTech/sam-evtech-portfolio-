@@ -84,8 +84,7 @@ This is a simple HTML/CSS portfolio. To set it up:
 3. Add your photos or resume in the `photos` folder.
 
 ## Gallery 📸
-- Upload your project photos or resume in the `photos` folder.
-- Examples: `profile.jpg` (150x150px) or `resume.pdf`.
+-`photos/profile.jpg` (150x150px) or `photos/resume.pdf`.
 
 ## Contact Me 📧
 Let’s connect!  
