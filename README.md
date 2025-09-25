@@ -11,6 +11,9 @@ Built with a clean LinkedIn-inspired design.
 
 ---
 
+<section class="hero">
+    <img src="profile.jpg" alt="SamEVTech" class="profile-pic">
+
 ## 📖 About Me
 Hi, I’m **Samir (SamEVTech)** 👋  
 - ⚡ EV Specialist  
@@ -81,10 +84,7 @@ Check out my portfolio live:
 This is a simple HTML/CSS portfolio. To set it up:
 1. Download the ZIP from this repo.
 2. Upload it to [Vercel](https://vercel.com) for instant deployment.
-3. Add your photos or resume in the `photos` folder.
-
-## Gallery 📸
--`photos/profile.jpg` (150x150px) or `photos/resume.pdf`.
+3. Add your photos or resume in the `photos` folder
 
 ## Contact Me 📧
 Let’s connect!  
