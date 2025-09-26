@@ -1,26 +1,36 @@
-# ⚡ SamEVTech Portfolio
+# ⚡ SamEVTech Portfolio  
 
-Welcome to my personal portfolio website!  
-This site showcases my journey in **Electric Vehicles (EV)**, **IoT systems**, and **Sustainable Technology**.  
-Built with a clean LinkedIn-inspired design.
+Minimal, LinkedIn-inspired personal website built with **HTML + CSS**, deployed on **Vercel**.  
 
 ---
 
-## 🚀 Live Demo
-🔗 [View Portfolio on Vercel]([https://your-vercel-link.vercel.app](https://github.com/SamEVTech/sam-evtech-portfolio-/edit/main/README.md))
+## 🚀 Live Demo  
+🔗 [View Portfolio](https://your-vercel-link.vercel.app)  
 
 ---
 
-<section class="hero">
-    <img src="profile.jpg" alt="SamEVTech" class="profile-pic">
-
-## 📖 About Me
+## 📖 About Me  
 Hi, I’m **Samir (SamEVTech)** 👋  
-- ⚡ EV Specialist  
-- 📡 IoT Innovator  
-- 🌱 Sustainable Tech Builder  
 
-I love building prototypes, tearing things apart to learn, and turning small ideas into impactful solutions.
+- ⚡ *Electric Vehicle Specialist*  
+- 📡 *IoT Innovator*  
+- 🌱 *Sustainable Tech Builder*  
+
+💡 Passionate about prototyping, breaking things to learn, and building impactful solutions.  
+
+---
+
+## 🛠️ Tech Stack  
+- HTML, CSS (no frameworks)  
+- Vercel (hosting)  
+- GitHub (code & version control)  
+
+---
+
+## 🔗 Connect  
+- 🧑‍💻 [GitHub](https://github.com/SamEVTech)  
+- 🌐 [Portfolio Website](https://your-vercel-link.vercel.app)  
+- 📄 [Resume](assets/resume.pdf)  
 
 ---
 
