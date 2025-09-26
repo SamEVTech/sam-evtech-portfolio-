@@ -1,0 +1,222 @@
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #1a202c; /* Dark background like Siddhesh's */
+  color: #ffffff;
+  line-height: 1.6;
+}
+
+/* Hero Section */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid #4a5568;
+  animation: fadeIn 1s ease-in;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 20px 0 10px;
+  animation: slideIn 1s ease-in;
+}
+
+.typing-svg {
+  font-size: 1.2rem;
+  color: #1e3a8a; /* Navy blue like your README */
+  margin: 10px 0;
+}
+
+.bio {
+  font-size: 1.2rem;
+  color: #a0aec0;
+  max-width: 600px;
+  margin: 10px 0;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #3182ce;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 25px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #2b6cb0;
+}
+
+.resume-btn {
+  background-color: #38a169;
+}
+
+.resume-btn:hover {
+  background-color: #2f855a;
+}
+
+/* About Section */
+.about {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.about blockquote {
+  color: #a0aec0;
+  font-style: italic;
+  margin: 20px 0;
+}
+
+/* Resume Section */
+.resume {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.resume h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.resume ul {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.resume ul li {
+  margin: 10px 0;
+}
+
+/* Projects Section */
+.projects {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.projects h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.project-card {
+  background-color: #2d3748;
+  padding: 20px;
+  border-radius: 8px;
+  transition: transform 0.3s;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+}
+
+.project-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.project-card p {
+  color: #a0aec0;
+  margin-bottom: 10px;
+}
+
+.project-card a {
+  color: #63b3ed;
+  text-decoration: none;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+}
+
+/* Toolkit Section */
+.toolkit {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.toolkit h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.toolkit table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.toolkit th, .toolkit td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #4a5568;
+}
+
+.badges {
+  margin-top: 20px;
+}
+
+.badges img {
+  margin: 5px;
+}
+
+/* Contact Section */
+.contact {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.contact .badges a {
+  margin: 5px;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(-50px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  h1 { font-size: 2rem; }
+  .bio, .typing-svg { font-size: 1rem; }
+  .profile-img { width: 120px; height: 120px; }
+  .toolkit table { width: 100%; }
+}
